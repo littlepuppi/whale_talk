@@ -1,4 +1,4 @@
-var input = `tUrpEntine and turtlEs`
+var input = `turpentine and turtles`
 console.log(input.length)
 
 let phrase = ''
